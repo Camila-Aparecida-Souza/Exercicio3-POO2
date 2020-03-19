@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\casas bahia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\casas bahia\\.nuget\\packages"
+    ]
+  }
+}

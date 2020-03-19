@@ -1,0 +1,11 @@
+C:\Users\casas bahia\source\repos\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.exe
+C:\Users\casas bahia\source\repos\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.deps.json
+C:\Users\casas bahia\source\repos\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.json
+C:\Users\casas bahia\source\repos\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.runtimeconfig.dev.json
+C:\Users\casas bahia\source\repos\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.dll
+C:\Users\casas bahia\source\repos\Exercicio3\Exercicio3\bin\Debug\netcoreapp3.1\Exercicio3.pdb
+C:\Users\casas bahia\source\repos\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.csprojAssemblyReference.cache
+C:\Users\casas bahia\source\repos\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\casas bahia\source\repos\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.AssemblyInfo.cs
+C:\Users\casas bahia\source\repos\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.dll
+C:\Users\casas bahia\source\repos\Exercicio3\Exercicio3\obj\Debug\netcoreapp3.1\Exercicio3.pdb
